@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @usernameIsHecs
+- 👋 Hi, I’m Hector Liam Valdez
 - 👀 I’m interested in Making Video Games, Designing UI/UX
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Unity Development
 - 📫 How to reach me vhlt2001@outlook.com
 
 <!---
